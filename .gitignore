@@ -1,0 +1,8 @@
+2015_07_22_mktplace_shop_web_log_sample.log
+project/project/*
+project/target/*
+target/.history
+target/resolution-cache/*
+target/scala-2.11/*
+target/streams/*
+.idea
